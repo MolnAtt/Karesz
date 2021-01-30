@@ -1,0 +1,9 @@
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\bin\Debug\Lori.exe.config
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\bin\Debug\Lori.exe
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\bin\Debug\Lori.pdb
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\obj\Debug\Lori.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\obj\Debug\Lori.Properties.Resources.resources
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\obj\Debug\Lori.csproj.GenerateResource.cache
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\obj\Debug\Lori.exe
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\obj\Debug\Lori.pdb
+C:\Users\MolnarAttila\Desktop\_Karesz\5 - Logo\Lori\obj\Debug\Lori.Form1.resources
