@@ -14,6 +14,7 @@ namespace Lori
 	{
 		void FELADAT()
 		{
+			Robot Lori = new Robot("Lóri");
 			MessageBox.Show("Feladat feladva");
 		}
 	}
