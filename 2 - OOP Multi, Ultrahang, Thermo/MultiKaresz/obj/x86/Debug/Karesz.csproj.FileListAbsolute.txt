@@ -1,0 +1,96 @@
+C:\Users\ntibi\AppData\Local\Temporary Projects\Karesz\bin\Debug\Karesz.exe
+C:\Users\ntibi\AppData\Local\Temporary Projects\Karesz\bin\Debug\Karesz.pdb
+C:\Users\ntibi\AppData\Local\Temporary Projects\Karesz\obj\x86\Debug\Karesz.Form1.resources
+C:\Users\ntibi\AppData\Local\Temporary Projects\Karesz\obj\x86\Debug\Karesz.Properties.Resources.resources
+C:\Users\ntibi\AppData\Local\Temporary Projects\Karesz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+C:\Users\ntibi\AppData\Local\Temporary Projects\Karesz\obj\x86\Debug\Karesz.exe
+C:\Users\ntibi\AppData\Local\Temporary Projects\Karesz\obj\x86\Debug\Karesz.pdb
+C:\SZLG\megoldasok\programozas\KARESZ\Karesz01\Karesz\obj\x86\Debug\Karesz.exe
+C:\SZLG\megoldasok\programozas\KARESZ\Karesz01\Karesz\obj\x86\Debug\Karesz.pdb
+C:\SZLG\megoldasok\programozas\KARESZ\Karesz01\Karesz\obj\x86\Debug\Karesz.Form1.resources
+C:\SZLG\megoldasok\programozas\KARESZ\Karesz01\Karesz\obj\x86\Debug\Karesz.Properties.Resources.resources
+C:\SZLG\megoldasok\programozas\KARESZ\Karesz01\Karesz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+C:\SZLG\megoldasok\programozas\KARESZ\Karesz01\Karesz\bin\Debug\Karesz.exe
+C:\SZLG\megoldasok\programozas\KARESZ\Karesz01\Karesz\bin\Debug\Karesz.pdb
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz01\Karesz\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.exe
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.pdb
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.exe
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.pdb
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Form1.resources
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Properties.Resources.resources
+c:\SZLG\megoldasok\programozas\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+d:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.exe
+d:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.pdb
+d:\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.exe
+d:\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.pdb
+d:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+d:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Form1.resources
+d:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Properties.Resources.resources
+d:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+h:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.exe
+h:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.pdb
+h:\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.exe
+h:\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.pdb
+h:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+h:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Form1.resources
+h:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Properties.Resources.resources
+h:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+e:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.exe
+e:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.pdb
+e:\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.exe
+e:\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.pdb
+e:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+e:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Form1.resources
+e:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Properties.Resources.resources
+e:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+G:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.exe
+G:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.pdb
+G:\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.exe
+G:\KARESZ\Karesz02\Karesz\bin\Debug\Karesz.pdb
+G:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+G:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Form1.resources
+G:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.Properties.Resources.resources
+G:\KARESZ\Karesz02\Karesz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+C:\Users\diakok\Desktop\Karesz\bin\Debug\Karesz.exe
+C:\Users\diakok\Desktop\Karesz\bin\Debug\Karesz.pdb
+C:\Users\diakok\Desktop\Karesz\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+C:\Users\diakok\Desktop\Karesz\obj\x86\Debug\Karesz.Form1.resources
+C:\Users\diakok\Desktop\Karesz\obj\x86\Debug\Karesz.Properties.Resources.resources
+C:\Users\diakok\Desktop\Karesz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+C:\Users\diakok\Desktop\Karesz\obj\x86\Debug\Karesz.exe
+C:\Users\diakok\Desktop\Karesz\obj\x86\Debug\Karesz.pdb
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket lassan\bin\Debug\Karesz.exe
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket lassan\bin\Debug\Karesz.pdb
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket lassan\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket lassan\obj\x86\Debug\Karesz.Form1.resources
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket lassan\obj\x86\Debug\Karesz.Properties.Resources.resources
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket lassan\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket lassan\obj\x86\Debug\Karesz.exe
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket lassan\obj\x86\Debug\Karesz.pdb
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket ügyesen és gyorsan\bin\Debug\Karesz.exe
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket ügyesen és gyorsan\bin\Debug\Karesz.pdb
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket ügyesen és gyorsan\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket ügyesen és gyorsan\obj\x86\Debug\Karesz.Form1.resources
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket ügyesen és gyorsan\obj\x86\Debug\Karesz.Properties.Resources.resources
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket ügyesen és gyorsan\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket ügyesen és gyorsan\obj\x86\Debug\Karesz.exe
+C:\Users\diakok\Desktop\Karesz felváltva rajzol színes négyzeteket ügyesen és gyorsan\obj\x86\Debug\Karesz.pdb
+C:\Users\diakok\Desktop\MultiKaresz\bin\Debug\Karesz.exe
+C:\Users\diakok\Desktop\MultiKaresz\bin\Debug\Karesz.pdb
+C:\Users\diakok\Desktop\MultiKaresz\obj\x86\Debug\Karesz.csprojResolveAssemblyReference.cache
+C:\Users\diakok\Desktop\MultiKaresz\obj\x86\Debug\Karesz.Form1.resources
+C:\Users\diakok\Desktop\MultiKaresz\obj\x86\Debug\Karesz.Properties.Resources.resources
+C:\Users\diakok\Desktop\MultiKaresz\obj\x86\Debug\Karesz.csproj.GenerateResource.Cache
+C:\Users\diakok\Desktop\MultiKaresz\obj\x86\Debug\Karesz.exe
+C:\Users\diakok\Desktop\MultiKaresz\obj\x86\Debug\Karesz.pdb
+C:\Users\MolnarAttila\Desktop\MultiKaresz\bin\Debug\Karesz.exe
+C:\Users\MolnarAttila\Desktop\MultiKaresz\bin\Debug\Karesz.pdb
+C:\Users\MolnarAttila\Desktop\MultiKaresz\obj\x86\Debug\Karesz.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\Desktop\MultiKaresz\obj\x86\Debug\Karesz.Form1.resources
+C:\Users\MolnarAttila\Desktop\MultiKaresz\obj\x86\Debug\Karesz.Properties.Resources.resources
+C:\Users\MolnarAttila\Desktop\MultiKaresz\obj\x86\Debug\Karesz.csproj.GenerateResource.cache
+C:\Users\MolnarAttila\Desktop\MultiKaresz\obj\x86\Debug\Karesz.exe
+C:\Users\MolnarAttila\Desktop\MultiKaresz\obj\x86\Debug\Karesz.pdb
+C:\Users\MolnarAttila\Desktop\MultiKaresz\obj\x86\Debug\Karesz.csproj.CoreCompileInputs.cache
